@@ -1,0 +1,8 @@
+web_acl_name        = "Webacl"
+web_acl_metrics     = "Webaclmetrics"
+waf_rule_name       = "Wafrulename"
+waf_rule_metrics    = "Wafrulemetrics"
+csv_file_path       = "ips.csv"
+ipset_scope         = "REGIONAL"
+wafacl_scope        = "REGIONAL"
+default_action_type = "block"
