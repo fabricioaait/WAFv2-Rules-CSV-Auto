@@ -6,4 +6,4 @@ The code works for WAF(version 2) rules allowing or blocking IPs, it can be rang
 
 magic command: terraform apply -var-file=vars.tfvars -auto-approve
 
-More detailed article: https://medium.com/@fabricio.aa.it/automating-dynamic-aws-wafv2-rule-creation-with-terraform-63b04a46a507
+More detailed article: https://medium.com/system-weakness/automating-dynamic-aws-wafv2-rule-creation-with-terraform-63b04a46a507
